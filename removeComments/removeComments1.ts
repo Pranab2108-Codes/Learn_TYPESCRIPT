@@ -1,0 +1,2 @@
+console.log("Checking whether the comments appearing or not"); /* In tsconfig.json if we uncomment this key which is removeComments, bydefault it keep as true. */ 
+                                                               /* Then when we do tsc -b ofcourse it will genereate it's corresponding Javascript file, in there we can see no more these comments will appear. */
