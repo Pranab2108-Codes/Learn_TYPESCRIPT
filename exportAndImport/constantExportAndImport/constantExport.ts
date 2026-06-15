@@ -1,0 +1,2 @@
+export const a = 98;         /* Typescript follows the ES6 module system, using import and export statements to share code between different files. */
+export const b = -7;         /* So here we don't need to do export like module.exports = { a: 1 } anymore. */
