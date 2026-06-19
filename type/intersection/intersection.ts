@@ -22,3 +22,4 @@ const t: TechLead = {                   /* So as per intersection here the t sho
   department: "Software Engineering"
 
 }
+console.log(t);

@@ -5,4 +5,5 @@ const t = {
     startDate: new Date(),
     department: "Software Engineering"
 };
+console.log(t);
 //# sourceMappingURL=intersection.js.map
